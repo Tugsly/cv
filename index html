@@ -3,18 +3,33 @@
     <head>
         <meta charset="utf-8">
         <title>tommys website</title>
+        <link rel="stylesheet" href="css/styles.css">
     </head>
+    <style>
+      body { background-color: #CFFDE1;}
+      hr 
+      { border-color: #FED049; 
+        border-style: dotted none none; size: 15px;
+        border-width: 7px;
+        width: 7%;
+        }
+      img {
+        height: 200px;
+      }
+      h1 {color: #3D5656; font-size: xx-large;}
+      h3 {color: #68B984;}
+    </style>
     <body>
       <img src="https://i.ytimg.com/vi/sZWzlTf7VBA/maxresdefault.jpg" alt="Basik Sessions Concert"
-           <h1><strong><a href="https://www.facebook.com/tommy.goodall.7">Tommy Goodall</a></strong></h1>
+          <h1><strong><a href="https://www.facebook.com/tommy.goodall.7">Tommy Goodall</a></strong></h1>
         <p><em>creator             
           <strong>coder</strong></em>
           </p>
       <hr> 
-      <h3><a href"interests.html">interests</a> </h3>
+      <h3><a href="interests.html">interests</a> </h3>
       <h3>Experience</h3>
       <table cellspacing="20">
-        <thead>
+        <thead><
           <tr>
             <th>date</th>
             <th>school</th>
@@ -22,10 +37,10 @@
         </thead>
         <tbody>
         <tr>
-          <td>2010</td><td>King´s college</td>
+          <td>2010</td><td>King´s college</td><td>⭐⭐⭐⭐⭐</td>
         </tr>
         <tr>
-          <td>2015</td><td>Hastings School</td>
+          <td>2015</td><td>Hastings School</td><td>⭐⭐⭐⭐⭐</td>
         </tr>
       </tbody>
       <tfoot>
